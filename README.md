@@ -1,2 +1,2 @@
 # password-generator
-A Quick little script to generate a secure password
+A quick little script to generate a secure password, and copy it to the users clipboard.
